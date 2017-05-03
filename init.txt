@@ -16,6 +16,7 @@ http://www.linuxidc.com/Linux/2016-02/128327.htm
 
 #arm-linux-gcc
 https://launchpad.net/gcc-arm-embedded/+download
+http://blog.csdn.net/zhengqijun_/article/details/60962128
 
 #ubuntu-st-link
 http://blog.csdn.net/a13526758473/article/details/60468652
