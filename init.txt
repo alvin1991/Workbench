@@ -1,39 +1,52 @@
-#git
-http://www.linuxidc.com/Linux/2016-09/135527.htm
+#################################################
+##################1.system tools#################
+#ppa源
+http://www.tuicool.com/articles/Fn6fI37
 
 #zsh & on-my-zsh
 http://www.linuxdiyf.com/linux/24777.html
 
+#####################################################
+#################2.development tools#################
 #gcc&g++
 http://www.linuxidc.com/Linux/2016-11/136836.htm
 http://blog.sina.com.cn/s/blog_54dd80920102vvt6.html
-
-#arm-linux-gcc
 http://blog.chinaunix.net/uid-29833444-id-5211916.html
 http://www.linuxidc.com/Linux/2016-02/128327.htm
 
+#arm-linux-gcc
+https://launchpad.net/gcc-arm-embedded/+download
+http://blog.csdn.net/zhengqijun_/article/details/60962128
+
+#ubuntu-st-link
+http://blog.csdn.net/a13526758473/article/details/60468652
+http://blog.163.com/lifuliang207@126/blog/static/12726353120140235446301/
+
 #eclipse
 http://www.linuxidc.com/Linux/2014-08/105090.htm
-
-#chrome
-http://www.linuxidc.com/Linux/2016-05/131096.htm
-
-#lantern
-http://www.iyaxi.com/2015-11-17/732.html
-
-#ppa源
-http://www.tuicool.com/articles/Fn6fI37
-
-#chorme
-http://www.jianshu.com/p/8220578d0b15
 
 #apache ant
 http://ant.apache.org/bindownload.cgi
 http://www.jb51.net/article/57591.htm
 
+#git
+http://www.linuxidc.com/Linux/2016-09/135527.htm
+
+###################################################
+##################3.internet tools#################
+#lantern
+http://www.iyaxi.com/2015-11-17/732.html
+
+#chorme
+http://www.jianshu.com/p/8220578d0b15
+http://www.linuxidc.com/Linux/2016-05/131096.htm
+
+##########################################
+##################4.blogs#################
 #Benjamin's robotics
 http://vedder.se/
 
+<<<<<<< HEAD
 #ubuntu-st-link
 http://blog.csdn.net/a13526758473/article/details/60468652
 http://blog.163.com/lifuliang207@126/blog/static/12726353120140235446301/
@@ -44,5 +57,14 @@ http://mirrors.aliyun.com/
 http://mirror.lzu.edu.cn/
 http://mirror.bit.edu.cn/web/
 http://mirrors.zju.edu.cn/
+=======
+
+
+
+
+
+
+
+>>>>>>> c2fb38b1e554fdb96a68d5a5f2476f2e00597684
 
 
