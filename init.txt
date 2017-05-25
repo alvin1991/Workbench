@@ -37,3 +37,12 @@ http://vedder.se/
 #ubuntu-st-link
 http://blog.csdn.net/a13526758473/article/details/60468652
 http://blog.163.com/lifuliang207@126/blog/static/12726353120140235446301/
+
+#mirrors website
+http://mirrors.ustc.edu.cn/
+http://mirrors.aliyun.com/
+http://mirror.lzu.edu.cn/
+http://mirror.bit.edu.cn/web/
+http://mirrors.zju.edu.cn/
+
+
