@@ -6,6 +6,9 @@ http://www.tuicool.com/articles/Fn6fI37
 #zsh & on-my-zsh
 http://www.linuxdiyf.com/linux/24777.html
 
+#inter driver
+https://download.01.org/gfx/ubuntu/14.04/main/pool/main/i/
+
 #####################################################
 #################2.development tools#################
 #gcc&g++
