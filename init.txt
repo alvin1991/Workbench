@@ -35,6 +35,9 @@ http://www.jb51.net/article/57591.htm
 #git
 http://www.linuxidc.com/Linux/2016-09/135527.htm
 
+#sublime
+https://www.jianshu.com/p/bf05fb3a4709
+
 ###################################################
 ##################3.internet tools#################
 #lantern
