@@ -210,9 +210,25 @@ wget -q https://packages.microsoft.com/keys/microsoft.asc -O- | sudo apt-key add
 # 启用Edge浏览器存储库
 sudo add-apt-repository “deb [arch=amd64] https://packages.microsoft.com/repos/edge stable main”
 
-# 安装
+# 更新程序包索引并安装
+sudo apt update
 sudo apt-get install microsoft-edge-stable
 ```
+
+## Google Chrome
+
+```shell
+# Google Chrome GPG密钥wget
+wget -q -O - https://dl.google.com/linux/linux_signing_key.pub  | sudo apt-key add -
+
+# 启用Google浏览器存储库
+sudo add-apt-repository “deb [arch=amd64] http://dl.google.com/linux/chrome/deb/ stable main”
+
+# 更新程序包索引并安装
+sudo apt-get update
+sudo apt-get install google-chrome-stable
+```
+
 ## GoldenDict
 
 安装包下载：[https://sourceforge.net/projects/goldendict/files/early%20access%20builds/](https://sourceforge.net/projects/goldendict/files/early%20access%20builds/)
@@ -224,3 +240,23 @@ sudo apt install goldendict
 
 ```
 
+## gdebi
+```shell
+#安装
+sudo apt-get install gdebi
+```
+
+## Lantern
+
+下载地址：[https://github.com/getlantern/lantern/releases](https://github.com/getlantern/lantern/releases)
+
+## Filezilla
+```shell
+#install filezilla
+sudo apt-get install filezilla -y
+```
+## Genromfs
+```shell
+#install genromfs
+sudo apt-get install genromfs -y
+```
