@@ -1,5 +1,6 @@
 # Workbench
-.....
+
+Workbench是用来保存开发过程中关键数据、备份重要的文件、记录调试手段及经验
 
 
 ## Gnome-Tweaks
