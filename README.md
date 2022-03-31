@@ -27,6 +27,14 @@ sudo apt install chrome-gnome-shell
 * Adobe的Source Sans Pro：[https://fonts.google.com/specimen/Source+Sans+Pro](https://fonts.google.com/specimen/Source+Sans+Pro)
 * Google的Roboto：[https://fonts.google.com/specimen/Roboto](https://fonts.google.com/specimen/Roboto)
 
+ | Items|Fonts |
+ |----|----|
+ |Wintows Title | Noto Mono Regurlar 12|
+ |Interface|Robot Regurlar 12|
+ |Document|Robot Regurlar 12|
+ |Monospace|Noto Mono Regurlar 12|
+
+
 ## zsh&oh-my-zsh
 
 1.安装zsh
