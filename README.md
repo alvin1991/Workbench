@@ -32,7 +32,7 @@ sudo apt install chrome-gnome-shell
  |Wintows Title | Noto Mono Regurlar 12|
  |Interface|Robot Regurlar 12|
  |Document|Robot Regurlar 12|
- |Monospace|Noto Mono Regurlar 12|
+ |Monospace|Noto Mono Regurlar 13|
 
 
 ## zsh&oh-my-zsh
@@ -241,7 +241,10 @@ sudo apt-get install google-chrome-stable
 
 安装包下载：[https://sourceforge.net/projects/goldendict/files/early%20access%20builds/](https://sourceforge.net/projects/goldendict/files/early%20access%20builds/)
 
-离线词典：[http://pan.baidu.com/share/link?shareid=443301&uk=3189859145#path=%252Fgoldendict_dictionary](http://pan.baidu.com/share/link?shareid=443301&uk=3189859145#path=%252Fgoldendict_dictionary)
+离线词典1：[http://pan.baidu.com/share/link?shareid=443301&uk=3189859145#path=%252Fgoldendict_dictionary](http://pan.baidu.com/share/link?shareid=443301&uk=3189859145#path=%252Fgoldendict_dictionary)
+
+离线词典2：[http://download.huzheng.org/zh_CN/](http://download.huzheng.org/zh_CN/)
+
 ```shell  
 # 安装
 sudo apt install goldendict
