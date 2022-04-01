@@ -135,9 +135,9 @@ n是要回退到的引用位置。
 # 重新填写commit log
 git commit --amend
 
-3.5 导出
-* 导出干净代码
-> git archive --format=zip --output="./output.zip" master -0
+# 导出
+#导出干净代码
+git archive --format=zip --output="./output.zip" master -0
 ```
 
 
