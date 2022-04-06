@@ -272,8 +272,9 @@ sudo apt-get install filezilla -y
 sudo apt-get install genromfs -y
 ```
 ## Beyond-Compare 4
+官网下载：[http://www.scootersoftware.com/download.php](http://www.scootersoftware.com/download.php)
 Generate Key：[https://www.serials.be/serial/Beyond_Compare_4_Linux_68803632.html](https://www.serials.be/serial/Beyond_Compare_4_Linux_68803632.html)
-
+破解方法：[https://www.jianshu.com/p/93303b9fb21a](https://www.jianshu.com/p/93303b9fb21a)
 ```shell
 #install
 sudo gdebi bcompare-4.2.3.22587_amd64.deb
