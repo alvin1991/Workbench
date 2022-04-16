@@ -2,8 +2,10 @@
 
 Workbench是用来保存开发过程中关键数据、备份重要的文件、记录调试手段及经验
 
+## Linux
+---
 
-## Gnome-Tweaks
+### Gnome-Tweaks
  1.tweaks安装
 
 ```shell
@@ -35,7 +37,7 @@ sudo apt install chrome-gnome-shell
  |Monospace|Noto Mono Regurlar 13|
 
 
-## zsh&oh-my-zsh
+### zsh&oh-my-zsh
 
 1.安装zsh
 ```shell
@@ -51,7 +53,7 @@ sudo chsh -s /bin/zsh
 
 ZSH_THEME="ys"
 
-## atom
+### atom
 
 安装教程：[https://flight-manual.atom.io/getting-started/sections/installing-atom/](https://flight-manual.atom.io/getting-started/sections/installing-atom/)
 
@@ -69,7 +71,7 @@ sudo apt-get update
 sudo apt-get install atom
 ```
 
-## Visual Studio code
+### Visual Studio code
 
 
 ```shell
@@ -86,7 +88,7 @@ sudo add-apt-repository "deb [arch=amd64] https://packages.microsoft.com/repos/v
 sudo apt install code
 ```
 
-## Git
+### Git
 
 1.安装配置
 ```shell
@@ -141,7 +143,7 @@ git archive --format=zip --output="./output.zip" master -0
 ```
 
 
-## gcc-arm-none-eabi
+### gcc-arm-none-eabi
 
 1）下载交叉编译工具链 [gcc-arm-none-eabi-6_2-2016q4-20161216-linux.tar.bz2](https://developer.arm.com/-/media/Files/downloads/gnu-rm/6-2016q4/gcc-arm-none-eabi-6_2-2016q4-20161216-linux.tar.bz2?revision=241a583b-4a1b-4d69-845f-f1efb022974c?product=GNU%20Arm%20Embedded%20Toolchain,64-bit,,Linux,6-2016-q4-major)  
 
@@ -197,7 +199,7 @@ git archive --format=zip --output="./output.zip" master -0
 * 验证是否安装成功
 > whereis arm-none-eabi-gcc
 
-## ST-Link
+### ST-Link
 
 安装方式一：[https://blog.csdn.net/hanjuefu5827/article/details/105599408](https://blog.csdn.net/hanjuefu5827/article/details/105599408)
 安装方式二：[https://blog.csdn.net/hpf247/article/details/122682231](https://blog.csdn.net/hpf247/article/details/122682231)
@@ -213,7 +215,7 @@ cd build/Release && make install DESTDIR=_install
 
 ```
 
-## Eclipse
+### Eclipse
 安装教程：[https://www.linuxidc.com/Linux/2014-08/105090.htm](https://www.linuxidc.com/Linux/2014-08/105090.htm)
 
 * Darkest Dark theme with DevStyle
@@ -222,7 +224,7 @@ cd build/Release && make install DESTDIR=_install
 * Eclipse Embedded C/C++  
 
 
-## Microsoft Edge
+### Microsoft Edge
 ```shell
 # 更新程序包索引并安装依赖项
 sudo apt update
@@ -239,7 +241,7 @@ sudo apt update
 sudo apt-get install microsoft-edge-stable
 ```
 
-## Google Chrome
+### Google Chrome
 
 ```shell
 # Google Chrome GPG密钥wget
@@ -253,7 +255,7 @@ sudo apt-get update
 sudo apt-get install google-chrome-stable
 ```
 
-## GoldenDict
+### GoldenDict
 
 安装包下载：[https://sourceforge.net/projects/goldendict/files/early%20access%20builds/](https://sourceforge.net/projects/goldendict/files/early%20access%20builds/)
 
@@ -267,27 +269,27 @@ sudo apt install goldendict
 
 ```
 
-## gdebi
+### gdebi
 ```shell
 #安装
 sudo apt-get install gdebi
 ```
 
-## Lantern
+### Lantern
 
 下载地址：[https://github.com/getlantern/lantern/releases](https://github.com/getlantern/lantern/releases)
 
-## Filezilla
+### Filezilla
 ```shell
 #install filezilla
 sudo apt-get install filezilla -y
 ```
-## Genromfs
+### Genromfs
 ```shell
 #install genromfs
 sudo apt-get install genromfs -y
 ```
-## Beyond-Compare 4
+### Beyond-Compare 4
 官网下载：[http://www.scootersoftware.com/download.php](http://www.scootersoftware.com/download.php)
 Generate Key：[https://www.serials.be/serial/Beyond_Compare_4_Linux_68803632.html](https://www.serials.be/serial/Beyond_Compare_4_Linux_68803632.html)
 破解方法：[https://www.jianshu.com/p/93303b9fb21a](https://www.jianshu.com/p/93303b9fb21a)
@@ -322,4 +324,25 @@ jKKRX9RuNeDMFqgP2cuf0NMvyMrMScnM1ZyiAaJJtzbxqN5hZOMClUTE+
 --- END LICENSE KEY -----
 
 ```
+
+## Windows
+---
+
+### MinGW
+
+1.安装
+
+- 下载点1：[https://osdn.net/projects/mingw/](https://osdn.net/projects/mingw/)
+- 下载点2：[https://osdn.net/projects/mingw/releases/](https://osdn.net/projects/mingw/releases/)
+
+2.添加环境变量[https://www.rose-hulman.edu/class/csse/resources/MinGW/installation.htm](https://www.rose-hulman.edu/class/csse/resources/MinGW/installation.htm)
+
+### Make
+
+1.下载
+- 下载点[https://mirrors.aliyun.com/gnu/make/](https://mirrors.aliyun.com/gnu/make/)
+
+### OpenOCD
+
+下载点[https://gnutoolchains.com/arm-eabi/openocd/](https://gnutoolchains.com/arm-eabi/openocd/)
 
