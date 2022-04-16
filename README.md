@@ -197,6 +197,22 @@ git archive --format=zip --output="./output.zip" master -0
 * 验证是否安装成功
 > whereis arm-none-eabi-gcc
 
+## ST-Link
+
+安装方式一：[https://blog.csdn.net/hanjuefu5827/article/details/105599408](https://blog.csdn.net/hanjuefu5827/article/details/105599408)
+安装方式二：[https://blog.csdn.net/hpf247/article/details/122682231](https://blog.csdn.net/hpf247/article/details/122682231)
+
+```shell
+# 下载源码
+git clone https://github.com/stlink-org/stlink
+
+# 编译并安装
+cd stlink
+make
+cd build/Release && make install DESTDIR=_install
+
+```
+
 ## Eclipse
 安装教程：[https://www.linuxidc.com/Linux/2014-08/105090.htm](https://www.linuxidc.com/Linux/2014-08/105090.htm)
 
