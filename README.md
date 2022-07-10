@@ -199,6 +199,12 @@ git archive --format=zip --output="./output.zip" master -0
 * 验证是否安装成功
 > whereis arm-none-eabi-gcc
 
+### kconfig-frontends
+```shell
+#ubuntu20.04
+sudo apt-get -y --quiet --no-install-recommends install kconfig-frontends
+```
+
 ### ST-Link
 
 安装方式一：[https://blog.csdn.net/hanjuefu5827/article/details/105599408](https://blog.csdn.net/hanjuefu5827/article/details/105599408)
